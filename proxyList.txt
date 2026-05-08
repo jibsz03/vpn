@@ -6,7 +6,6 @@
 138.2.74.219,28616,SG,Cloudflare Warp
 146.235.18.248,45137,SG,Oracle Cloud
 194.127.193.240,50791,SG,Leaseweb Asia
-138.2.95.33,17465,SG,Oracle Cloud
 138.2.95.61,1111,SG,Oracle Cloud
 129.150.36.188,53435,SG,Oracle Cloud
 141.147.183.49,29876,JP,Oracle Cloud
