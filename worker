@@ -7,7 +7,7 @@ import { connect } from "cloudflare:sockets";
 
 // ==================== KONSTANTA ====================
 const vmessUUID = "3b01a777-55e7-49f6-8637-d94ee69607c6";
-const PROXY_LIST_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt";
+const PROXY_LIST_URL = "https://raw.githubusercontent.com/jibsz03/vpn/refs/heads/main/proxyList.txt";
 const CHECK_API_URL = "https://check.jak.biz.id/check";
 
 // ==================== UI HTML ====================
@@ -223,7 +223,7 @@ const UI_HTML = `<!DOCTYPE html>
         // Konfigurasi - sekarang pake domain sendiri
         const uuid = atob('M2IwMWE3NzctNTVlNy00OWY2LTg2MzctZDk0ZWU2OTYwN2M2');
         const host = window.location.hostname;
-        const proxyListUrl = 'https://raw.githubusercontent.com/jaka1m/botak/refs/heads/main/cek/proxyList.txt';
+        const proxyListUrl = 'https://raw.githubusercontent.com/jibsz03/vpn/refs/heads/main/proxyList.txt';
         const CHECK_API_URL = '${CHECK_API_URL}';
         const VMS_PRE = atob('dm1lc3M6Ly8=');
         const VLS_PRE = atob('dmxlc3M6Ly8=');
