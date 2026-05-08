@@ -58,9 +58,6 @@
 89.110.79.248,443,NL,Servers Tech Fzco
 2.59.183.233,444,NL,SERVA ONE LTD
 93.183.88.193,443,NL,Servers Tech Fzco
-194.164.32.32,443,NL,Servers Tech Fzco
-89.110.67.172,443,NL,Servers Tech Fzco
-77.238.230.174,443,NL,Servers Tech Fzco
 77.238.247.93,443,NL,Servers Tech Fzco
 89.110.68.158,443,NL,Servers Tech Fzco
 212.111.89.16,443,NL,Servers Tech Fzco
