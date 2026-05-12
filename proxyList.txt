@@ -11,7 +11,6 @@
 213.35.108.135,12596,SG,Oracle Svenska AB
 167.99.73.22,443,SG,Digital Ocean
 139.162.23.48,443,SG,Linode
-138.2.74.219,28616,SG,Cloudflare London, LLC
 129.150.36.188,53435,SG,Oracle Corporation
 138.2.95.61,1111,SG,Oracle Corporation
 45.76.183.217,49292,SG,Vultr Holdings, LLC
