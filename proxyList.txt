@@ -6,6 +6,7 @@
 45.76.183.217,49292,SG,	Vultr Holdings LLC
 51.79.248.128,443,SG,OVH SINGAPOR DC
 146.235.18.248,45137,SG,Oracle Corporation
+143.42.66.91,443,SG,Viewqwest Pte Ltd
 138.2.89.238,43254,SG,Oracle Corporation
 213.35.108.135,12596,SG,Oracle Svenska AB
 167.99.73.22,443,SG,Digital Ocean
