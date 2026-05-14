@@ -8,7 +8,7 @@ import { connect } from "cloudflare:sockets";
 // ==================== KONSTANTA ====================
 const vmessUUID = "3b01a777-55e7-49f6-8637-d94ee69607c6";
 const PROXY_LIST_URL = "https://raw.githubusercontent.com/jibsz03/vpn/refs/heads/main/proxyList.txt";
-const CHECK_API_URL = "https://pro-xychecker.netlify.app/api/v1";
+const CHECK_API_URL = "https://check.jak.biz.id/check";
 
 // ==================== UI HTML ====================
 const UI_HTML = `<!DOCTYPE html>
