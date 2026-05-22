@@ -1,0 +1,3 @@
+# Format: IP:PORT|Negara|Provider|Emoji
+36.95.152.58:12137|Indonesia|PT Telkom Indonesia|🇮🇩
+147.139.189.225:443|Indonesia|Alibaba Cloud|🇮🇩
