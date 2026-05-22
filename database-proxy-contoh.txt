@@ -1,3 +1,154 @@
 # Format: IP:PORT|Negara|Provider|Emoji
-36.95.152.58:12137|Indonesia|PT Telkom Indonesia|🇮🇩
-147.139.189.225:443|Indonesia|Alibaba Cloud|🇮🇩
+36.95.152.58:12137|Indonesia|PT Telekomunikasi Indonesia|🇮🇩
+43.218.77.16:443|Indonesia|Amazon.com, Inc.|🇮🇩
+156.244.1.250:8443|Indonesia|Lightnode Limited|🇮🇩
+147.139.189.225:443|Indonesia|Alibaba Cloud - ID|🇮🇩
+103.6.207.108:8080|Indonesia|PT Pusat Media Indonesia|🇮🇩
+138.2.89.238:43254|Singapore|Oracle Corporation|🇸🇬
+138.2.74.219:28616|Singapore|Cloudflare London, LLC|🇸🇬
+146.235.18.248:45137|Singapore|Oracle Corporation|🇸🇬
+138.2.95.61:1111|Singapore|Oracle Corporation|🇸🇬
+129.150.36.188:53435|Singapore|Oracle Corporation|🇸🇬
+43.156.116.194:443|Singapore|6 COLLYER QUAY|🇸🇬
+5.34.176.119:81|Singapore|Green Floid LLC|🇸🇬
+146.235.19.79:28983|Singapore|Oracle Corporation|🇸🇬
+194.36.179.17:2053|Singapore|FIRST SERVER, SOCIEDAD LIMITADA|🇸🇬
+168.138.165.174:443|Singapore|Oracle Public Cloud|🇸🇬
+104.248.145.216:443|Singapore|DigitalOcean, LLC|🇸🇬
+129.226.150.167:443|Singapore|6 COLLYER QUAY|🇸🇬
+124.156.202.172:443|Singapore|16 COLLYER QUAY|🇸🇬
+143.42.66.91:443|Singapore|Viewqwest Pte Ltd|🇸🇬
+167.99.73.22:443|Singapore|DigitalOcean, LLC|🇸🇬
+164.52.2.98:443|Singapore|UCUL-SG|🇸🇬
+164.52.2.100:443|Singapore|UCUL-SG|🇸🇬
+168.138.171.70:23280|Singapore|Oracle Public Cloud|🇸🇬
+164.52.2.99:443|Singapore|UCUL-SG|🇸🇬
+167.71.198.82:8443|Singapore|DigitalOcean, LLC|🇸🇬
+138.2.64.229:443|Singapore|Oracle Corporation|🇸🇬
+129.150.35.29:587|Singapore|Oracle Corporation|🇸🇬
+213.35.100.31:47112|Singapore|Oracle Svenska AB|🇸🇬
+18.138.34.221:443|Singapore|Amazon.com, Inc.|🇸🇬
+43.169.18.179:443|United States|ACE|🇺🇸
+8.219.154.217:8443|Singapore|Alibaba Cloud (Singapore) Private Limited|🇸🇬
+43.134.174.114:443|Singapore|6 COLLYER QUAY|🇸🇬
+47.236.119.109:443|Singapore|Alibaba Cloud LLC|🇸🇬
+194.233.67.84:443|Singapore|Contabo Asia Private Limited|🇸🇬
+207.148.125.245:8443|Singapore|SGP_VULTR_CUST|🇸🇬
+8.219.195.31:443|Japan|Alibaba Cloud (Singapore) Private Limited|🇯🇵
+8.222.193.153:443|Japan|Alibaba Cloud (Singapore) Private Limited|🇯🇵
+8.219.155.125:443|Japan|Alibaba Cloud (Singapore) Private Limited|🇯🇵
+129.150.48.17:443|Singapore|Oracle Corporation|🇸🇬
+8.222.185.236:443|Japan|Alibaba Cloud (Singapore) Private Limited|🇯🇵
+158.178.230.113:8443|Singapore|Oracle Corporation|🇸🇬
+213.35.127.18:443|Singapore|Oracle Corporation|🇸🇬
+62.72.44.6:8443|Singapore|Contabo Asia Private Limited|🇸🇬
+43.170.17.114:443|Netherlands|6 COLLYER QUAY|🇳🇱
+38.180.9.18:8443|Singapore|3NT SOLUTIONS LLP|🇸🇬
+157.230.44.100:443|Singapore|DigitalOcean, LLC|🇸🇬
+139.59.115.38:443|Singapore|DigitalOcean, LLC|🇸🇬
+138.2.85.81:2083|Thailand|AIS Fibre|🇹🇭
+157.245.159.88:443|Singapore|DigitalOcean, LLC|🇸🇬
+178.128.95.74:443|Singapore|DigitalOcean, LLC|🇸🇬
+165.22.253.232:443|Singapore|DigitalOcean, LLC|🇸🇬
+128.199.119.5:443|Singapore|DigitalOcean, LLC|🇸🇬
+178.128.101.67:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.71.213.95:443|Singapore|DigitalOcean, LLC|🇸🇬
+209.97.171.87:443|Singapore|DigitalOcean, LLC|🇸🇬
+134.209.103.4:443|Singapore|DigitalOcean, LLC|🇸🇬
+128.199.82.20:443|Singapore|DigitalOcean, LLC|🇸🇬
+45.128.222.55:443|Singapore|xTom Pty Ltd|🇸🇬
+157.245.60.179:443|Singapore|DigitalOcean, LLC|🇸🇬
+206.189.147.193:443|Singapore|DigitalOcean, LLC|🇸🇬
+152.42.232.41:443|Singapore|DigitalOcean, LLC|🇸🇬
+209.97.163.209:443|Singapore|DigitalOcean, LLC|🇸🇬
+143.198.213.81:443|Singapore|DigitalOcean, LLC|🇸🇬
+129.212.233.197:2053|Singapore|DigitalOcean, LLC|🇸🇬
+167.172.65.175:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.172.68.31:443|Singapore|DigitalOcean, LLC|🇸🇬
+206.189.147.60:443|Singapore|DigitalOcean, LLC|🇸🇬
+165.232.165.200:443|Singapore|DigitalOcean, LLC|🇸🇬
+139.59.250.249:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.99.74.195:443|Singapore|DigitalOcean, LLC|🇸🇬
+146.190.102.51:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.99.77.145:443|Singapore|DigitalOcean, LLC|🇸🇬
+188.166.217.179:443|Singapore|DigitalOcean, LLC|🇸🇬
+159.65.143.223:443|Singapore|DigitalOcean, LLC|🇸🇬
+209.97.170.177:443|Singapore|DigitalOcean, LLC|🇸🇬
+149.28.159.222:443|Singapore|Vultr Holdings, LLC|🇸🇬
+159.223.84.236:443|Singapore|DigitalOcean, LLC|🇸🇬
+149.28.142.169:443|Singapore|The Constant Company, LLC|🇸🇬
+178.128.90.108:443|Singapore|DigitalOcean, LLC|🇸🇬
+178.128.97.53:443|Singapore|DigitalOcean, LLC|🇸🇬
+129.212.232.171:443|Singapore|DigitalOcean, LLC|🇸🇬
+188.166.247.45:443|Singapore|DigitalOcean, LLC|🇸🇬
+129.212.231.216:443|Singapore|DigitalOcean, LLC|🇸🇬
+43.170.8.95:443|Japan|6 COLLYER QUAY|🇯🇵
+165.22.104.36:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.71.219.37:443|Singapore|DigitalOcean, LLC|🇸🇬
+165.22.248.134:443|Singapore|DigitalOcean, LLC|🇸🇬
+206.189.157.20:443|Singapore|DigitalOcean, LLC|🇸🇬
+188.166.234.172:443|Singapore|DigitalOcean, LLC|🇸🇬
+188.166.187.67:443|Singapore|DigitalOcean, LLC|🇸🇬
+188.166.237.20:443|Singapore|DigitalOcean, LLC|🇸🇬
+66.42.61.215:443|Singapore|The Constant Company, LLC|🇸🇬
+68.183.225.227:443|Singapore|DigitalOcean, LLC|🇸🇬
+194.87.10.241:443|Singapore|Baxet Group Inc.|🇸🇬
+157.230.244.86:443|Singapore|DigitalOcean, LLC|🇸🇬
+157.230.39.201:8443|Singapore|DigitalOcean, LLC|🇸🇬
+157.230.39.201:2053|Singapore|DigitalOcean, LLC|🇸🇬
+68.183.230.164:443|Singapore|DigitalOcean, LLC|🇸🇬
+206.189.82.100:443|Singapore|DigitalOcean, LLC|🇸🇬
+178.128.209.190:443|Singapore|DigitalOcean, LLC|🇸🇬
+209.97.160.109:443|Singapore|DigitalOcean, LLC|🇸🇬
+178.128.211.191:443|Singapore|DigitalOcean, LLC|🇸🇬
+159.223.93.80:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.71.221.62:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.71.222.177:443|Singapore|DigitalOcean, LLC|🇸🇬
+45.77.255.153:8443|Singapore|Strong Technology, LLC|🇸🇬
+188.166.230.196:443|Singapore|DigitalOcean, LLC|🇸🇬
+128.199.128.117:443|Singapore|DigitalOcean, LLC|🇸🇬
+188.239.9.91:443|Singapore|Huawei-Cloud-SG|🇸🇬
+140.245.107.0:8443|Singapore|Oracle Corporation|🇸🇬
+159.89.207.154:443|Singapore|DigitalOcean, LLC|🇸🇬
+159.65.12.42:443|Singapore|DigitalOcean, LLC|🇸🇬
+165.245.144.113:443|Singapore|DigitalOcean, LLC|🇸🇬
+47.82.155.79:8443|Singapore|Alibaba Cloud LLC|🇸🇬
+174.138.24.153:443|Singapore|DigitalOcean, LLC|🇸🇬
+178.128.125.147:443|Singapore|DigitalOcean, LLC|🇸🇬
+157.230.254.79:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.71.199.136:443|Singapore|DigitalOcean, LLC|🇸🇬
+152.42.169.132:443|Singapore|DigitalOcean, LLC|🇸🇬
+178.128.19.168:443|Singapore|DigitalOcean, LLC|🇸🇬
+159.65.15.18:443|Singapore|DigitalOcean, LLC|🇸🇬
+159.223.50.79:443|Singapore|DigitalOcean, LLC|🇸🇬
+159.89.205.195:443|Singapore|DigitalOcean, LLC|🇸🇬
+188.166.250.115:443|Singapore|DigitalOcean, LLC|🇸🇬
+157.230.255.59:443|Singapore|DigitalOcean, LLC|🇸🇬
+43.133.61.219:443|Singapore|6 COLLYER QUAY|🇸🇬
+159.223.85.214:443|Singapore|DigitalOcean, LLC|🇸🇬
+152.42.217.192:443|Singapore|DigitalOcean, LLC|🇸🇬
+5.223.60.212:443|Singapore|Hetzner Online GmbH|🇸🇬
+178.128.58.101:443|Singapore|DigitalOcean, LLC|🇸🇬
+143.198.85.69:443|Singapore|DigitalOcean, LLC|🇸🇬
+140.245.59.102:8443|Singapore|Oracle Corporation|🇸🇬
+47.82.155.79:2053|Singapore|Alibaba Cloud LLC|🇸🇬
+43.160.195.223:443|Singapore|6 COLLYER QUAY|🇸🇬
+38.180.9.18:2053|Singapore|3NT SOLUTIONS LLP|🇸🇬
+146.235.16.191:443|Singapore|Oracle Corporation|🇸🇬
+157.245.151.130:443|Singapore|DigitalOcean, LLC|🇸🇬
+158.178.234.153:443|Singapore|Oracle Corporation|🇸🇬
+159.223.78.76:443|Singapore|DigitalOcean, LLC|🇸🇬
+68.183.227.22:443|Singapore|DigitalOcean, LLC|🇸🇬
+47.82.155.79:443|Singapore|Alibaba Cloud LLC|🇸🇬
+143.198.209.123:443|Singapore|DigitalOcean, LLC|🇸🇬
+206.189.152.133:443|Singapore|DigitalOcean, LLC|🇸🇬
+174.138.18.114:443|Singapore|DigitalOcean, LLC|🇸🇬
+45.77.255.153:443|Singapore|Strong Technology, LLC|🇸🇬
+159.223.79.119:443|Singapore|DigitalOcean, LLC|🇸🇬
+157.230.38.88:443|Singapore|DigitalOcean, LLC|🇸🇬
+206.189.82.255:443|Singapore|DigitalOcean, LLC|🇸🇬
+167.172.86.195:443|Singapore|DigitalOcean, LLC|🇸🇬
+140.245.57.184:8443|Singapore|Oracle Corporation|🇸🇬
+139.162.23.48:443|Singapore|Linode, LLC|🇸🇬
+51.79.248.128:443|Singapore|OVH SINGAPOR DC|🇸🇬
+138.2.87.237:443|Singapore|Oracle Corporation|🇸🇬
