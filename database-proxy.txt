@@ -1,9 +1,9 @@
 # Format: IP:PORT|Negara|Provider|Emoji
-36.95.152.58:12137|Indonesia|PT Telekomunikasi Indonesia|🇮🇩
+36.95.152.58:12137|Indonesia|Telekomunikasi Indonesia|🇮🇩
 43.218.77.16:443|Indonesia|Amazon.com, Inc.|🇮🇩
 156.244.1.250:8443|Indonesia|Kaopu Cloud HK Limited|🇮🇩
 147.139.189.225:443|Indonesia|Alibaba Cloud - ID|🇮🇩
-103.6.207.108:8080|Indonesia|PT Pusat Media Indonesia|🇮🇩
+103.6.207.108:8080|Indonesia|Pusat Media Indonesia|🇮🇩
 159.89.205.195:443|Singapore|DigitalOcean, LLC|🇸🇬
 149.28.159.222:443|Singapore|Vultr Holdings, LLC|🇸🇬
 91.192.81.154:2053|Singapore|Melbikomas UAB|🇸🇬
