@@ -4,32 +4,11 @@
 156.244.1.250:8443|Indonesia|Kaopu Cloud HK Limited|🇮🇩
 147.139.189.225:443|Indonesia|Alibaba Cloud - ID|🇮🇩
 103.6.207.108:8080|Indonesia|PT Pusat Media Indonesia|🇮🇩
-138.2.89.238:43254|Singapore|Oracle Corporation|🇸🇬
-138.2.74.219:28616|Singapore|Cloudflare London, LLC|🇸🇬
-43.156.116.194:443|Singapore|6 COLLYER QUAY|🇸🇬
-5.34.176.119:81|Singapore|Green Floid LLC|🇸🇬
-194.36.179.17:2053|Singapore|FIRST SERVER, SOCIEDAD LIMITADA|🇸🇬
-168.138.165.174:443|Singapore|Oracle Public Cloud|🇸🇬
-104.248.145.216:443|Singapore|DigitalOcean, LLC|🇸🇬
-124.156.202.172:443|Singapore|16 COLLYER QUAY|🇸🇬
-143.42.66.91:443|Singapore|Viewqwest Pte Ltd|🇸🇬
-164.52.2.98:443|Singapore|UCUL-SG|🇸🇬
-213.35.100.31:47112|Singapore|Oracle Svenska AB|🇸🇬
-18.138.34.221:443|Singapore|Amazon.com, Inc.|🇸🇬
-43.169.18.179:443|United States|ACE|🇺🇸
-8.219.154.217:8443|Singapore|Alibaba Cloud (Singapore) Private Limited|🇸🇬
-47.236.119.109:443|Singapore|Alibaba Cloud LLC|🇸🇬
-194.233.67.84:443|Singapore|Contabo Asia Private Limited|🇸🇬
-207.148.125.245:8443|Singapore|SGP_VULTR_CUST|🇸🇬
-38.180.9.18:8443|Singapore|3NT SOLUTIONS LLP|🇸🇬
-138.2.85.81:2083|Thailand|AIS Fibre|🇹🇭
-45.128.222.55:443|Singapore|xTom Pty Ltd|🇸🇬
+159.89.205.195:443|Singapore|DigitalOcean, LLC|🇸🇬
 149.28.159.222:443|Singapore|Vultr Holdings, LLC|🇸🇬
-149.28.142.169:443|Singapore|The Constant Company, LLC|🇸🇬
-66.42.61.215:443|Singapore|The Constant Company, LLC|🇸🇬
-194.87.10.241:443|Singapore|Baxet Group Inc.|🇸🇬
-45.77.255.153:8443|Singapore|Strong Technology, LLC|🇸🇬
-188.239.9.91:443|Singapore|Huawei-Cloud-SG|🇸🇬
-5.223.60.212:443|Singapore|Hetzner Online GmbH|🇸🇬
-139.162.23.48:443|Singapore|Linode, LLC|🇸🇬
+91.192.81.154:2053|Singapore|Melbikomas UAB|🇸🇬
+143.42.66.91:443|Singapore|Viewqwest Pte Ltd|🇸🇬
 51.79.248.128:443|Singapore|OVH SINGAPOR DC|🇸🇬
+13.250.31.132:443|Singapore|Amazon Data Services Singapore|🇸🇬
+213.35.108.135:12596|Singapore|Oracle Cloud|🇸🇬
+38.60.193.247:13300|Malaysia|Kaopu Cloud HK Limited|🇲🇾
