@@ -5,7 +5,7 @@
 147.139.189.225:443|Indonesia|Alibaba Cloud - ID|🇮🇩
 103.6.207.108:8080|Indonesia|Pusat Media Indonesia|🇮🇩
 159.89.205.195:443|Singapore|DigitalOcean, LLC|🇸🇬
-149.28.159.222:443|Singapore|Vultr Holdings, LLC|🇸🇬
+45.76.183.217:49292|Singapore|Vultr Holdings, LLC|🇸🇬
 91.192.81.154:2053|Singapore|Melbikomas UAB|🇸🇬
 143.42.66.91:443|Singapore|Viewqwest Pte Ltd|🇸🇬
 51.79.248.128:443|Singapore|OVH SINGAPOR DC|🇸🇬
