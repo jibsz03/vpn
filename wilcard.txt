@@ -10,6 +10,7 @@ df.infra.test.shopee.co.id
 dfsuporte.garena.com
 dl.cvs.freefiremobile.com
 edu.ruangguru.com
+live.iflix.com
 grabacademyportal.grab.com
 graph.instagram.com
 help.viu.com
