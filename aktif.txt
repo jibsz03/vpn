@@ -1,1 +1,22 @@
-
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+147.139.189.225,443,ID,Alibaba Cloud - ID
+43.218.77.16,443,ID,Amazon.com, Inc.
+156.244.1.250,8443,ID,Lightnode Limited
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+47.74.254.191,8900,SG,Alibaba Cloud - SG
+45.76.183.217,49292,SG,Vultr Holdings, LLC
+51.79.248.128,443,SG,OVH SINGAPOR DC
+146.235.18.248,45137,SG,Oracle Corporation
+143.42.66.91,443,SG,Viewqwest Pte Ltd
+213.35.108.135,12596,SG,Oracle Svenska AB
+139.162.23.48,443,SG,Linode, LLC
+91.192.81.154,2053,SG,Melbikomas UAB
+164.52.2.98,443,SG,UCUL-SG
+168.138.171.70,23280,SG,Oracle Public Cloud
+13.250.131.37,443,SG,Amazon Data Services Singapore
+167.71.198.82,8443,SG,DigitalOcean, LLC
+18.138.34.221,443,SG,Amazon.com, Inc.
+47.236.119.109,443,SG,Alibaba Cloud LLC
+194.233.67.84,443,SG,Contabo Asia Private Limited
+207.148.125.245,8443,SG,SGP_VULTR_CUST
+5.223.60.212,443,SG,Hetzner Online GmbH
