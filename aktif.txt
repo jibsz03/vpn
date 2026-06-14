@@ -3,7 +3,6 @@
 43.218.77.16,443,ID,Amazon.com, Inc.
 156.244.1.250,8443,ID,Kaopu Cloud HK Limited
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-47.74.254.191,8900,SG,Alibaba Cloud - SG
 45.76.183.217,49292,SG,Vultr Holdings, LLC
 51.79.248.128,443,SG,OVH SINGAPOR DC
 146.235.18.248,45137,SG,Oracle Corporation
