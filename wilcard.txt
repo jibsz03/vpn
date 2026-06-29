@@ -1,3 +1,4 @@
+api.quipper.com
 ads.ruangguru.com
 api24-normal.tiktokv.com
 ava.game.naver.com
